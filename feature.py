@@ -1,1 +1,1 @@
-a=b+c 
+adding two numers 
