@@ -1,2 +1,2 @@
 # project-repo
-stting up git
+setting up git
